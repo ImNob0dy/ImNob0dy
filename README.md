@@ -17,11 +17,8 @@ I'm an aspiring **Cybersecurity enthusiast** with a focused passion for **Pentes
 * **Certifications:**
     * **Certified Ethical Hacker (CEH)**
     * **eLearnSecurity Junior Penetration Tester (eJPT)**
-    * **Certified Associate in Python Programming (CAP)**
-    * **Certified Network Security Professional (CNSP)**
-    * **Certified Network Penetration Tester (CNPen)**
 * **Experience:**
-    * 1 year 9 months as a **SOC Analyst at Infosys**
+    * 2 year as a **SOC Analyst at Infosys**
 * **Key Interests:**
     * **Reverse Engineering**
     * **Penetration Testing**
