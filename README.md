@@ -37,5 +37,5 @@ I'm an aspiring **Cybersecurity enthusiast** with a focused passion for **Pentes
 Let's connect and discuss all things cybersecurity and reverse engineering!
 
 
-* **www.linkedin.com/in/gargya-savasya-780018167**
+**linkedin.com/in/gargyasavasya**
 
