@@ -17,6 +17,9 @@ I'm an aspiring **Cybersecurity enthusiast** with a focused passion for **Pentes
 * **Certifications:**
     * **Certified Ethical Hacker (CEH)**
     * **eLearnSecurity Junior Penetration Tester (eJPT)**
+    * **CNSP (The SecOps Group)**
+    * **CAP (The SecOps Group)**
+    * **ISC2 CC**
 * **Experience:**
     * 2 year as a **SOC Analyst at Infosys**
 * **Key Interests:**
